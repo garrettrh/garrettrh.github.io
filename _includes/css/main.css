@@ -355,3 +355,17 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+.my-div img {
+  width: 200px;
+  height: 200px;
+}
+
+#my-img {
+  border-radius:50px/20px;
+  border: 5px solid powderblue;
+}
+
+.heart {
+  color: red;
+}
