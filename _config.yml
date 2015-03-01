@@ -15,12 +15,12 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Garrett Harris - Full Stack Web Developer"
+keywords:    "Garrett, Harris, full-stack, full stack, developer, programmer, freelance"
+description: "A full stack web developer ready to make your idea a reality!"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  "img/me-suit-cropped.jpeg"  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/me-suit-cropped.jpeg"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
